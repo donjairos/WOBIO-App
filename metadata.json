@@ -1,0 +1,8 @@
+{
+  "name": "WOBIO - Ride Hailing",
+  "description": "A comprehensive ride-hailing application featuring Rider, Driver, and Admin portals with AI-powered support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
